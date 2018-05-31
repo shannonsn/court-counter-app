@@ -1,7 +1,7 @@
 # court-counter-app
-# Udacity-helloAndroid-app
 
-##  WIP Simple XML page
-### Udacity Information
+## A basic app that keeps count of the scores each team has scored
+## using Java
+## and my first app made using styles in android studio
 
 <img src="/Screenshot_20180531-101129.png" height="550px" width="300px">
